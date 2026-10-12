@@ -1,3 +1,9 @@
+
+
+Check out my Linux work here: [Linux SMB Oplock Patch Repository](https://github.com/amymyau/linux-smb-oplock-patch/tree/main)
+
+
+
 ## Hi there 👋
 
 <!--
