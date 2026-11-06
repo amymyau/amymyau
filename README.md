@@ -2,6 +2,9 @@
 
 Check out my projects here: 
 
+
+[Raspberry-Pi-CM4-3.3V-PDN-Anti-Resonance-Transient-Validation](https://github.com/amymyau/Raspberry-Pi-CM4-3.3V-PDN-Anti-Resonance-Transient-Validation)
+
 [Linux SMB Oplock Patch Repository](https://github.com/amymyau/linux-smb-oplock-patch/tree/main)
 
 [KDB Hardware Reset & Ring Buffer Debugging](https://github.com/amymyau/C-_Templated_Ring_Buffer_Circular_Buffer)
